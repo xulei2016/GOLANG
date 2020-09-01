@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/BurntSushi/xgb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/BurntSushi/xgbutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/acroca/go-symbols" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/armon/go-socks5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/blang/semver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/fatih/gomodifytags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/fedesog/webdriver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/glog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/google/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/mux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/haya14busa/goplay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/josharian/impl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/karrick/godirwalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mdempsky/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shamsher31/goimgext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shamsher31/goimgtype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/skratchdot/open-golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/stamblerre/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tebeka/selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/uudashr/gopkgs" vcs="Git" />
+  </component>
+</project>
